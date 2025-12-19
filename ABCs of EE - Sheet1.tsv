@@ -2,7 +2,7 @@
 A	analog	
 B	binary	bistable
 C	capacitor	
-D	diode	
+D	digital	diode
 E	electrons	
 F	faraday	
 G	Gauss	
@@ -18,7 +18,7 @@ P	Pulse
 Q	Quiscient 	
 R	Resistor	
 S	Semiconductor 	
-T		
+T	Transistor	Transformer
 U		
 V	Volts	
 W	Watt	
